@@ -36,7 +36,7 @@ python src/dashboard_export.py
 jupyter notebook notebooks/eda_notebook.ipynb
 ```
 
-## How to Explain in an Interview
+
 - **Problem:** Ops team couldn't identify which carriers were causing SLA breaches
 - **Data:** 100K synthetic orders, 18 months, 10 carriers, 4 regions
 - **Approach:** SQL analysis via DuckDB, 7 visualisations
